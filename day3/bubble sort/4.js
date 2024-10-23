@@ -1,5 +1,5 @@
 
-
+// Sort an array of floating-point numbers using Bubble Sort.
 
 let arr=[2.3, 5.7, 1.8, 4.9];
 

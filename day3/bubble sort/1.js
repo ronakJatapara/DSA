@@ -1,4 +1,4 @@
-
+// Modify Bubble Sort to sort the array in descending order.
 
 let arr=[5, 1, 4, 2, 8];
 

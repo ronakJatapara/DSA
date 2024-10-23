@@ -1,3 +1,7 @@
+// cheak how many time value of array Comparisons 
+
+
+
 let arr = [6, 3, 1, 7];
 
 let count=0
