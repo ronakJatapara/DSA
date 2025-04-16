@@ -1,5 +1,5 @@
 // cheak how many time value of array Comparisons 
-
+          
 
 
 let arr = [6, 3, 1, 7];
@@ -27,4 +27,4 @@ for(let x=0;x<=arr.length-2;x++)
 }
 console.log(arr);
 console.log(count);
-
+l

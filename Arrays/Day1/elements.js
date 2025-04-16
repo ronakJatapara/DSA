@@ -15,7 +15,7 @@
 
 function elements(arr)
 {
-    let getEle = 3;
+    let getEle = 2;
      for(let i=0;i<arr.length;i++)
      {
         if(arr[i]===getEle)
@@ -26,4 +26,4 @@ function elements(arr)
      }
 }
 
-console.log(elements([1,2,3,4,5]));
+console.log(elements([1,2,3,4,5,6]));
